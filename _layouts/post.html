@@ -9,8 +9,9 @@ layout: default
     {{ content }}
   </div>
 
-
+{% if page.email %}
   <h2>Interested? <a href="mailto:hello@scalawilliam.com?subject={{ page.title }}&body=I am interested in the work at {{ page.url || absolute_url }}">Mail me now</a></h2>
+{% endif %}
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
