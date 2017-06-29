@@ -4,9 +4,9 @@ title: Rules
 permalink: /rules/
 ---
 
+- Price too low? Ask for more.
 - I will post the price I'm happy to pay.
 - Click on "I'm interested" link to mail me.
-- If you want more money, say so.
 - Do not do any work until we're agreed.
 - This is not employment. No obligations from me nor from you.
    - You are not obliged to accept work.
