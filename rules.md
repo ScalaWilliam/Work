@@ -14,4 +14,4 @@ permalink: /rules/
    - I am not obliged to pay you if I'm not happy.
    - I do not take any taxation responsibility.
    - Small units of work = less risk than going to an interview.
-
+- Large units of work? Split it up, create issues. For reasonable units, I pay $5.
