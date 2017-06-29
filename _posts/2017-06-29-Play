@@ -1,0 +1,8 @@
+---
+title: $50: Migrate ActionFPS to use Compile time DI
+---
+
+- Price: $50
+- Issue: [github.com/ScalaWilliam/ActionFPS/issues/400](https://github.com/ScalaWilliam/ActionFPS/issues/400)
+
+Incremental work only, no large PRs :-)
