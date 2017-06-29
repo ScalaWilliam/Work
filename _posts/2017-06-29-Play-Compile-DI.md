@@ -1,5 +1,6 @@
 ---
-title: $50: Migrate ActionFPS to use Compile time DI
+title: "$50: Migrate ActionFPS to use Compile time DI"
+layout: post
 ---
 
 - Price: $50
