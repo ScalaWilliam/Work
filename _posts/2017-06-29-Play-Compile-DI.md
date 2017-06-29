@@ -7,4 +7,4 @@ layout: post
 - Issue: [github.com/ScalaWilliam/ActionFPS/issues/400](https://github.com/ScalaWilliam/ActionFPS/issues/400)
 - Skills: Scala, Play Framework
 
-Incremental work only, no large PRs :-)
+Incremental work only, no large PRs :-) I'll pay for extra issues separately of course.
