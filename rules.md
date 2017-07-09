@@ -15,3 +15,4 @@ permalink: /rules/
    - I do not take any taxation responsibility.
    - Small units of work = less risk than going to an interview.
 - Large units of work? Split it up, create issues. For reasonable units, I pay $5.
+- I'll pay via PayPal, Bank transfer, WeChat or any other convenient alternative.
