@@ -2,19 +2,24 @@
 layout: default
 ---
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+<article class="post h-product h-entry">
+  <h1 class="p-name">{{ page.title }}</h1>
 
   <div class="entry">
+
+    {% if page.price %}
+      <p>Price: <span class="p-price">{{ page.price }}</span></p>
+    {% endif %}
+
     {{ content }}
   </div>
 
 {% if page.email %}
-  <h2>Interested? <a href="mailto:hello@scalawilliam.com?subject={{ page.title }}&body=I am interested in the work at {{ page.url || absolute_url }}">Mail me now</a></h2>
+  <h2>Interested? <a href="mailto:hello@scalawilliam.com?subject={{ page.title }}&body=I am interested in the work at {{ page.url | absolute_url }}">Mail me now</a></h2>
 {% endif %}
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Written on <span class="dt-published">{{ page.date | date: "%B %e, %Y" }}</span>
   </div>
 
   {% include disqus.html %}

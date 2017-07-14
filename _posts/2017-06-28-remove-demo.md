@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "$5.00: #Scala: Make demo link None"
+price: "$5.00"
 ---
 
 - Price: $5.00 as this work is very easy.
