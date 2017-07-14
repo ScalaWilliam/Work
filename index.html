@@ -4,13 +4,20 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+    <article class="post h-entry h-product">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1 class="p-name"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
+    <div class="entry">
+      {% if post.price %}
+      <p>Price: <span class="p-price">{{ post.price }}</span></p>
+    {% endif %}
         {{ post.excerpt }}
       </div>
+
+        <div class="date">
+    Written on <span class="dt-published">{{ post.date | date: "%B %e, %Y" }}</span>
+  </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
