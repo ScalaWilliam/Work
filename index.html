@@ -20,6 +20,7 @@ layout: default
   </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ post.url | absolute_url }}" class="u-url">Permalink</a>
     </article>
   {% endfor %}
 </div>

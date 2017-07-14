@@ -21,6 +21,7 @@ layout: default
   <div class="date">
     Written on <date datetime="{{ page.date | date_to_xmlschema }}" class="dt-published">{{ page.date | date: "%B %e, %Y" }}</date>
   </div>
+  <a href="{{ page.url | absolute_url }}" class="u-url">Permalink</a>
 
   {% include disqus.html %}
 </article>
