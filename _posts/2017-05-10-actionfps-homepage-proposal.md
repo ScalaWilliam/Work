@@ -2,6 +2,7 @@
 layout: post
 title: "$20.00: Proposal for homepage?"
 price: "$20.00"
+skills: [ UX ]
 ---
 
 - Price: $20.00

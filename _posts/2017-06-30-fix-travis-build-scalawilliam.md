@@ -2,6 +2,10 @@
 layout: post
 title: "$20.00: Fix broken Travis CI build (due to upgrades on their side)"
 price: "$20.00"
+skills:
+    - CI
+    - Travis
+    - DevOps
 ---
 
 - Price: $20.00 as this is quite important, but also quite easy.

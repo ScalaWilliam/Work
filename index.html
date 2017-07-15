@@ -19,6 +19,14 @@ layout: default
     Written on <date datetime="{{ post.date | date_to_xmlschema }}" class="dt-published">{{ post.date | date: "%B %e, %Y" }}</date>
   </div>
 
+  {% if post.skills %}
+<p>Skills: 
+{% for skill in post.skills %}
+<span class="p-category">{{ skill }}</span>
+{% endfor %}
+  </p>
+  {% endif %}
+
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       <a href="{{ post.url | absolute_url }}" class="u-url">Permalink</a>
     </article>

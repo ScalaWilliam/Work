@@ -2,6 +2,7 @@
 title: "$50: Migrate ActionFPS to use Compile time DI: Application Loader module"
 layout: post
 price: "$50.00"
+skills: [ Play, Scala ]
 ---
 
 - Price: $50
