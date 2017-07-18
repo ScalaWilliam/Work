@@ -5,4 +5,5 @@ price: "$25.00"
 skills: [ Scala ]
 ---
 
+**SOLVED** 
 - Issue: [https://github.com/ScalaWilliam/ScalaWilliam.com/issues/57](https://github.com/ScalaWilliam/ScalaWilliam.com/issues/57)
