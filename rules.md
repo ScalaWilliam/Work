@@ -19,6 +19,7 @@ permalink: /rules/
 - Don't make changes not asked for unless they are essential or part of the job.
   - Version upgrades make validation more difficult. I can be on a bad internet connection, don't want to download many JARs
   - Logic changes may require extra time for me to validate. Instead, create an issue as below.
+- Please reference the Issue in the PR, so that I can get to the PR via the Issue.
 
 ## Create issue, get paid!
 
