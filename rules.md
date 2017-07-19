@@ -14,8 +14,11 @@ permalink: /rules/
    - I am not obliged to pay you if I'm not happy.
    - I do not take any taxation responsibility.
    - Small units of work = less risk than going to an interview.
-- Large units of work? Split it up, create issues. For reasonable units, I pay $5.
+- Large units of work? Split it up, create issues. See below.
 - I'll pay via PayPal, bank transfer, AliPay, WeChat or any other convenient alternative.
+- Don't make changes not asked for unless they are essential or part of the job.
+  - Version upgrades make validation more difficult. I can be on a bad internet connection, don't want to download many JARs
+  - Logic changes may require extra time for me to validate. Instead, create an issue as below.
 
 ## Create issue, get paid!
 
