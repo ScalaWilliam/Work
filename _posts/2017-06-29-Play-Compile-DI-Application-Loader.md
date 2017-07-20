@@ -5,6 +5,8 @@ price: "$50.00"
 skills: [ Play, Scala ]
 ---
 
+**SOLVED**
+
 - Price: $50
 - Issue: [github.com/ScalaWilliam/ActionFPS/issues/400](https://github.com/ScalaWilliam/ActionFPS/issues/400)
 - Skills: Scala, Play Framework
