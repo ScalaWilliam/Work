@@ -6,7 +6,7 @@ permalink: /rules/
 
 - Price too low? Ask for more.
 - I will post the price I'm happy to pay.
-- Please communicate only via the Git Issur.
+- Please communicate only via the Git Issue.
 - Click on "I'm interested" link to mail me.
 - Do not do any work until we're agreed.
 - This is not employment. No obligations from me nor from you.
@@ -21,6 +21,7 @@ permalink: /rules/
   - Version upgrades make validation more difficult. I can be on a bad internet connection, don't want to download many JARs
   - Logic changes may require extra time for me to validate. Instead, create an issue as below.
 - Please reference the Issue in the PR, so that I can get to the PR via the Issue.
+- When you're paid, please make a Pull Request in this repository to add `**SOLVED**, **PAID**` to the work item to show it's solved and paid.
 
 ## Create issue, get paid!
 
