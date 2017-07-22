@@ -5,6 +5,8 @@ skills: [ git ]
 layout: post
 ---
 
+**SOLVED**, **PAID**
+
 - Price: $20
 - Issue: [https://github.com/ScalaWilliam/ScalaWilliam.com/issues/60](https://github.com/ScalaWilliam/ScalaWilliam.com/issues/60)
 - Skills: Git
