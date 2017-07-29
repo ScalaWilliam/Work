@@ -29,4 +29,5 @@ Have ideas? **Create work for yourself!**
 - You want to work on something but there's no issue? Create one.
 - If I like it, I pay $5.00 for the creation.
 - You suggest your own price, then I will either agree or lower it.
+- If I agree to it, please create [a pull request with this issue](https://github.com/ScalaWilliam/Work/tree/master/_posts).
 - Then you can take on it as usual.
