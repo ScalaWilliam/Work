@@ -7,8 +7,7 @@ permalink: /rules/
 - Price too low? Ask for more.
 - I will post the price I'm happy to pay.
 - Please communicate only via the Git Issue.
-- Click on "I'm interested" link to mail me.
-- Do not do any work until we're agreed.
+- Comment "I'm taking on this" before starting work, to lock the issue.
 - This is not employment. No obligations from me nor from you.
    - You are not obliged to accept work.
    - I am not obliged to offer work.
