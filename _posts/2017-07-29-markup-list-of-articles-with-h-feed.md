@@ -5,6 +5,8 @@ skills: [ html, indieweb, semantic, microformats ]
 layout: post
 ---
 
+**SOLVED**, **PAID**
+
 - Issue: [https://github.com/ScalaWilliam/ScalaWilliam.com/issues/64](https://github.com/ScalaWilliam/ScalaWilliam.com/issues/64)
 
 ## Scope
