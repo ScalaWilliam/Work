@@ -5,4 +5,4 @@ skills: [ html, indieweb, semantic ]
 layout: post
 ---
 
-- Issue: [https://github.com/ScalaWilliam/ScalaWilliam.com/issues/55](https://github.com/ScalaWilliam/ScalaWilliam.com/issues/55)
+- Issue: [https://github.com/ScalaWilliam/ScalaWilliam.com/issues/86](https://github.com/ScalaWilliam/ScalaWilliam.com/issues/86)
