@@ -1,6 +1,6 @@
 ---
 title: "Re-integrate game-log-parser Scala/SBT project"
-price: "$40.00"
+price: "$50.00"
 skills: [ scala, play, sbt ]
 layout: post
 ---
