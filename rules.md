@@ -20,6 +20,7 @@ permalink: /rules/
   - Version upgrades make validation more difficult. I can be on a bad internet connection, don't want to download many JARs
   - Logic changes may require extra time for me to validate. Instead, create an issue as below.
 - Please reference the Issue in the PR, so that I can get to the PR via the Issue.
+- The resulting work is copyrighted to me.
 - When you're paid, please make a [Pull Request in this repository](https://github.com/ScalaWilliam/Work/tree/master/_posts) to add `**SOLVED**, **PAID**` to the work item to show it's solved and paid. This saves me some time and also makes it easy to refer to you in future. This also helps me improve this site more easily if you get new ideas and are already familiar with it.
 
 ## Create issue, get paid!
