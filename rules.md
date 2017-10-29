@@ -7,7 +7,7 @@ permalink: /rules/
 - Price too low? Ask for more.
 - I will post the price I'm happy to pay.
 - Please communicate only via the Git Issue.
-- Comment "I'm taking on this" before starting work, to lock the issue.
+- Comment "I agree to the [rules](http://work.scalawilliam.com/rules/) and am taking on this task" before starting work, to lock the issue to yourself.
 - This is not employment. No obligations from me nor from you.
    - You are not obliged to accept work.
    - I am not obliged to offer work.
