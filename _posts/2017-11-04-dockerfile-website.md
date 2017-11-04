@@ -1,6 +1,6 @@
 ---
 title: Dockerfile for website
-price: "$25"
+price: "$20"
 layout: post
 skills: [ docker, dockerfile ]
 ---
