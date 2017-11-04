@@ -8,6 +8,7 @@ permalink: /rules/
 - I will post the price I'm happy to pay.
 - Please communicate only via the Git Issue.
 - Comment "I agree to the [rules](http://work.scalawilliam.com/rules/) and am taking on this task" before starting work, to lock the issue to yourself.
+- You can lock an issue to yourself for 1 week at most. The task will be available again to pick up by others if you take more than 1 week.
 - This is not employment. No obligations from me nor from you.
    - You are not obliged to accept work.
    - I am not obliged to offer work.
