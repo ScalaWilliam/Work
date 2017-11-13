@@ -5,5 +5,7 @@ skills: [ scala, sbt ]
 layout: post
 ---
 
+**SOLVED, PAID**
+
 - Issue: [https://github.com/ScalaWilliam/ActionFPS/issues/417](https://github.com/ScalaWilliam/ActionFPS/issues/417)
 
