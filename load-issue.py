@@ -52,7 +52,7 @@ if result:
         "date: %s" % post_date,
         "---",
         "",
-        "- Issue: [%s](%s)" % (obj['url'], obj['url'])
+        "- Issue: [%s](%s)" % (obj['html_url'], obj['html_url'])
     ]
 
     body = "\n".join(post_body_lines)

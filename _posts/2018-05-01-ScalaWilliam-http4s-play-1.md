@@ -5,4 +5,4 @@ layout: post
 date: 2018-05-01
 ---
 
-- Issue: [https://api.github.com/repos/ScalaWilliam/http4s-play/issues/1](https://api.github.com/repos/ScalaWilliam/http4s-play/issues/1)
+- Issue: [https://github.com/ScalaWilliam/http4s-play/issues/1](https://github.com/ScalaWilliam/http4s-play/issues/1)
