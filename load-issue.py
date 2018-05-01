@@ -41,6 +41,7 @@ if result:
         "---",
         "title: \"%s\"" % title,
         "price: \"%s\"" % price,
+        "layout: post",
         "date: %s" % post_date,
         "---",
         "",
