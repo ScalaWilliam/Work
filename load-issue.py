@@ -17,6 +17,11 @@ result = price_search.search(SAMPLE_PRICE)
 assert result, SAMPLE_PRICE
 assert result.groups() == ("$20",), result.groups()
 
+price_search_2 = re.compile("pay (\$\d+)")
+SAMPLE_PRICE_2 = "I'll pay $40"
+result = price_search_2.search(SAMPLE_PRICE_2)
+assert result.groups() == ("$40",), result.groups()
+
 url = argv[1]
 print "Looking at: %s" % url
 result = prog.search(argv[1])
@@ -28,6 +33,8 @@ if result:
     response_str = response.read()
     obj = json.loads(response_str)
     result = price_search.search(obj['body'])
+    if not result:
+        result = price_search_2.search(obj['body'])
     assert result, "price not found in body: %s" % obj['body']
     (price) = result.groups()
     
