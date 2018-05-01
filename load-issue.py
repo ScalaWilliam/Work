@@ -34,7 +34,7 @@ if result:
     post_date = obj['created_at'][0:10]
     post_id = "%s-%s" %(post_date, article_name)
     post_file = "_posts/%s.md" % post_id
-    post_url = "http://work.scalawilliam.com/%s" % post_id
+    post_url = "http://work.scalawilliam.com/%s/" % article_name
 
     title = "%s: %s" % (repo, obj['title'])
     post_body_lines = [
@@ -51,7 +51,15 @@ if result:
     with open(post_file, 'w') as f:
         f.write(body)
     
-    print "Write to %s" % post_file
-    print "Will be available via %s" % post_url
+    print "Written to %s." % post_file
+    print "Add this to the issue:"
+    print ""
+    issue_addition_fragments = [
+        "Under the [ScalaWilliam Work rules](http://work.scalawilliam.com/rules/),",
+        " to reserve this task to yourself, "
+        "please say \"I'm taking on this\". ",
+        "This was posted on %s" % post_url
+    ]
+    print "".join(issue_addition_fragments)
 
     
